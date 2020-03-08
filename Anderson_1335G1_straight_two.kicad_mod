@@ -1,4 +1,6 @@
-(module Anderson_1335G1_straight_two (layer F.Cu) (tedit 5E55EB0D)
+(module Anderson_1335G1_straight_two (layer F.Cu) (tedit 5E653FA3)
+  (autoplace_cost90 10)
+  (autoplace_cost180 10)
   (fp_text reference REF** (at 0 5.15) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -17,4 +19,9 @@
   )
   (pad 1 thru_hole oval (at -3.95 1.4) (size 5.93 1.97) (drill oval 5.23 1.27) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 3.95 1.4) (size 5.93 1.97) (drill oval 5.23 1.27) (layers *.Cu *.Mask))
+  (model :homebrew:Anderson_straight_x2.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
