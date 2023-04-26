@@ -18,7 +18,7 @@
   (pad "2" smd roundrect (at 1.875 -3.8) (size 1.25 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 06c8a0b9-cde1-4cfb-b836-edd2e5919da9))
   (pad "~" smd roundrect (at -3.625 -3.05) (size 1.45 4.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 43a5dfa6-b07b-4e33-b40d-af0c3122ebef))
   (pad "~" smd roundrect (at 3.625 -3.05) (size 1.45 4.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp dea448bc-11fe-414f-bcdb-08f0ce50a514))
-  (model ":homebrew:TE_1571407-2.stp"
+  (model "${HOMEBREW}/TE_1571407-2.stp"
     (offset (xyz 0 0.1 3.25))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

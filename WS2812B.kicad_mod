@@ -17,7 +17,7 @@
   (pad 2 smd rect (at -2.57556 1.59766) (size 1.651 0.99822) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 2.57556 1.59766) (size 1.651 0.99822) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 2.57556 -1.59766) (size 1.651 0.99822) (layers F.Cu F.Paste F.Mask))
-  (model :homebrew:WS2812b.wrl
+  (model ${HOMEBREW}/WS2812b.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

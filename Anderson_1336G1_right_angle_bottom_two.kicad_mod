@@ -28,7 +28,7 @@
   (fp_line (start -6.25 -18.25) (end 6.25 -18.25) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole oval (at -3.95 0) (size 6.03 2.07) (drill oval 5.23 1.27) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 3.95 0) (size 6.03 2.07) (drill oval 5.23 1.27) (layers *.Cu *.Mask))
-  (model :homebrew:Anderson_right_angle_x2.wrl
+  (model ${HOMEBREW}/Anderson_right_angle_x2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

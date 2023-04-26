@@ -41,7 +41,7 @@
     (solder_mask_margin 0.1016))
   (pad 4 smd rect (at -2.04978 -0.79756) (size 0.89916 0.99822) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.1016))
-  (model :homebrew:KMR442G.wrl
+  (model ${HOMEBREW}/KMR442G.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -24,7 +24,7 @@
   (pad "3" thru_hole circle (at -63.75 0.95) (size 2.4 2.4) (drill 1.5) (layers *.Cu *.Mask) (tstamp 13a5356f-b092-4ea7-a6ee-11d04b31d688))
   (pad "~" thru_hole circle (at -38.8 0) (size 2.9 2.9) (drill 2) (layers *.Cu *.Mask) (tstamp 37765b57-1831-4bac-a9ba-a24e7c1871fe))
   (pad "~" thru_hole circle (at 43.7 0) (size 2.9 2.9) (drill 2) (layers *.Cu *.Mask) (tstamp e9bcf19d-8191-49c8-9295-d5792abea728))
-  (model ":homebrew:PTB0153-2010BPB103.STEP"
+  (model "${HOMEBREW}/PTB0153-2010BPB103.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

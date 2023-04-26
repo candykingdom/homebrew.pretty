@@ -38,7 +38,7 @@
   (pad S4 thru_hole oval (at 4.32 0) (size 1.05 2.1) (drill oval 0.65 1.25) (layers *.Cu *.Mask))
   (pad None np_thru_hole circle (at -2.89 -3.65) (size 0.7 0.7) (drill 0.7) (layers *.Cu *.Mask))
   (pad None np_thru_hole circle (at 2.89 -3.65) (size 0.7 0.7) (drill 0.7) (layers *.Cu *.Mask))
-  (model :homebrew:TYPE-C-31-M-12.wrl
+  (model ${HOMEBREW}/TYPE-C-31-M-12.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 180 180))

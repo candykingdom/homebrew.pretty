@@ -55,7 +55,7 @@
   (pad 1 smd rect (at -6.22 -1.7) (size 3.1 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -6.22 0) (size 3.1 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -6.22 1.7) (size 3.1 1.2) (layers F.Cu F.Paste F.Mask))
-  (model :homebrew:RGB_LED_lens.wrl
+  (model ${HOMEBREW}/RGB_LED_lens.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

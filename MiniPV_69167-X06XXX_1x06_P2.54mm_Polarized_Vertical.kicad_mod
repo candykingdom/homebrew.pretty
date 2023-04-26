@@ -36,7 +36,7 @@
   (pad "4" thru_hole oval (at 0 7.62) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp ed05ba03-1e59-4764-8823-f63056f52720))
   (pad "5" thru_hole oval (at 0 10.16) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 3361c9a3-c4cc-47dc-ac72-a9c418921124))
   (pad "6" thru_hole oval (at 0 12.7) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 30d686b6-b79d-4837-a792-ba6d6ea1579e))
-  (model ":homebrew:69167-x06.stp"
+  (model "${HOMEBREW}/69167-x06.stp"
     (offset (xyz -2.54 -6.3 4.55))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))

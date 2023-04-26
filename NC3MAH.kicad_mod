@@ -28,7 +28,7 @@
   (pad 2 thru_hole circle (at -3.8 17.78) (size 2.5 2.5) (drill 1.6) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 0 17.78) (size 2.1 2.1) (drill 1.2) (layers *.Cu *.Mask))
   (pad G thru_hole circle (at 0 12.7) (size 2.1 2.1) (drill 1.2) (layers *.Cu *.Mask))
-  (model :homebrew:NC3MAH.wrl
+  (model ${HOMEBREW}/NC3MAH.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -22,7 +22,7 @@
   (pad "" np_thru_hole circle (at 6.7 6.7) (size 2 2) (drill 2) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -6.7 6.7) (size 2 2) (drill 2) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 0 0) (size 8 8) (drill 8) (layers *.Cu *.Mask))
-  (model :homebrew:CUI_DEVICES_CLS0231MP_008_cp.wrl
+  (model ${HOMEBREW}/CUI_DEVICES_CLS0231MP_008_cp.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

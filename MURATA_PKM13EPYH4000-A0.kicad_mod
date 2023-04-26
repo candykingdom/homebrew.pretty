@@ -18,7 +18,7 @@
   (pad "" np_thru_hole circle (at 0 -3.75) (size 1 1) (drill 1) (layers F&B.Cu *.Mask) (tstamp f2404f08-09d8-4811-be51-76408d5a6856))
   (pad "1" thru_hole circle (at -2.5 0) (size 3.4 3.4) (drill 2.5) (layers *.Cu *.Mask) (tstamp 048db5ef-ca9f-4935-82c1-c405ed04440e))
   (pad "2" thru_hole circle (at 2.5 0) (size 3.4 3.4) (drill 2.5) (layers *.Cu *.Mask) (tstamp a41ff6df-fae8-4be1-b75c-cd18ef95dbc3))
-  (model ":homebrew:PKM13EPYH4000-A0.STEP"
+  (model "${HOMEBREW}/PKM13EPYH4000-A0.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

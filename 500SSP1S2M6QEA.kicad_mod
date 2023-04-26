@@ -24,7 +24,7 @@
   (pad 3 thru_hole circle (at 0 4.7) (size 2.75 2.75) (drill 1.85) (layers *.Cu *.Mask))
   (pad ~ thru_hole circle (at -9.53 -6.605) (size 2.75 2.75) (drill 1.85) (layers *.Cu *.Mask))
   (pad ~ thru_hole circle (at -9.53 6.605) (size 2.75 2.75) (drill 1.85) (layers *.Cu *.Mask))
-  (model :homebrew:500SSPxS2M6xEA.stp
+  (model ${HOMEBREW}/500SSPxS2M6xEA.stp
     (offset (xyz -4 0 3.3))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 -90))

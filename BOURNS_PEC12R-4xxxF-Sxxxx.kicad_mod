@@ -22,7 +22,7 @@
   (pad S2 thru_hole circle (at 2.5 -7) (size 2 2) (drill 1.1) (layers *.Cu *.Mask))
   (pad ~ thru_hole oval (at -5.6 0) (size 3 3.5) (drill oval 2 2.5) (layers *.Cu *.Mask))
   (pad ~ thru_hole oval (at 5.6 0) (size 3 3.5) (drill oval 2 2.5) (layers *.Cu *.Mask))
-  (model :homebrew:pec12r-4230f-s0024.stp
+  (model ${HOMEBREW}/pec12r-4230f-s0024.stp
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))

@@ -168,7 +168,7 @@
   (pad "" np_thru_hole circle (at 24.25 41.25) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 12.2) (size 2 2) (drill 1.02) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0) (size 2 2) (drill 1.02) (layers *.Cu *.Mask))
-  (model :homebrew:BatteryHolder_Keystone_2481_4xAAA.step
+  (model ${HOMEBREW}/BatteryHolder_Keystone_2481_4xAAA.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

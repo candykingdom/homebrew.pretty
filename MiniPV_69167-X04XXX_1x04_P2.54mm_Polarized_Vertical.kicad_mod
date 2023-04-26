@@ -28,7 +28,7 @@
   (pad "2" thru_hole oval (at 0 2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 2e14092c-1e97-4b3c-b1f4-9b887ef28570))
   (pad "3" thru_hole oval (at 0 5.08) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 7072b420-9990-4d8f-a6b8-3c72e84d3433))
   (pad "4" thru_hole oval (at 0 7.62) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 2e17e098-ee36-4905-9dd2-df757778193e))
-  (model ":homebrew:69167-104HLF.step"
+  (model "${HOMEBREW}/69167-104HLF.step"
     (offset (xyz -2.54 -3.81 4.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))

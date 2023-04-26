@@ -89,7 +89,7 @@
   (pad "P$12" smd rect (at -3.05 0) (size 1.5 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6aa956ed-d985-47f3-b02e-599f8ff2ad1a))
   (pad "P$13" smd rect (at 3.05 0) (size 1.5 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a4037d5d-b148-4936-97d6-9d755de344b3))
   (pad "P$13" thru_hole circle (at 3.5 0) (size 1.8 1.8) (drill 1.2) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 48a5b742-dcfb-4239-b7f9-973950c2feaa))
-  (model ":homebrew:10118194-0001LF.wrl"
+  (model "${HOMEBREW}/10118194-0001LF.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
