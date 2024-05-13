@@ -1,0 +1,237 @@
+(footprint "BAT-TH_BH-18650-A1AJ005"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -4 0)
+		(layer "F.SilkS")
+		(uuid "88ff8edf-ee7f-43d1-8b19-25dee18a6e60")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "BAT-TH_BH-18650-A1AJ005"
+		(at 0 4 0)
+		(layer "F.Fab")
+		(uuid "74722b21-0db7-4171-bd7e-2bfd24776fa1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "BAT-TH_BH-18650-A1AJ005"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4f5a4971-e2a3-4828-a119-dd872f5f5792")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "171385a2-2b7e-44ca-a98f-3ec7b3a48335")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "573a772c-c90d-4ed2-9d38-0b665099b7f2")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -33.15 -3.56)
+		(end -33.15 4.06)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "30420216-8d91-49cb-80f4-8d6eff1c2dbf")
+	)
+	(fp_line
+		(start -33.15 4.06)
+		(end -31.5 -3.43)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e1e19ac8-5c0a-4963-bdd0-ad1e3f057165")
+	)
+	(fp_line
+		(start -31.5 -3.43)
+		(end -31.5 3.3)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6883ba5e-7721-41cf-8f19-3a893bad2f57")
+	)
+	(fp_line
+		(start -31.5 3.3)
+		(end -29.72 -2.79)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6af4450b-11c0-4671-b40f-a87bf09ab77b")
+	)
+	(fp_line
+		(start -29.72 -2.79)
+		(end -29.72 2.54)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "342a455e-1655-4f0d-b92f-5c3c312f19cc")
+	)
+	(fp_line
+		(start -29.72 2.54)
+		(end -27.94 -2.03)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fdb35bf8-0093-4e0f-b92d-27f4b73408ea")
+	)
+	(fp_line
+		(start -27.94 -2.03)
+		(end -27.94 1.78)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e13cd7fb-5303-413d-b112-fc88d76ca1cc")
+	)
+	(fp_line
+		(start -27.94 1.78)
+		(end -26.04 -1.4)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3be8adb5-d775-4373-9f88-011b5d0ccdac")
+	)
+	(fp_line
+		(start -26.04 -1.4)
+		(end -26.04 0.89)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f3d16f44-3e38-4f4f-a355-dff1db521c57")
+	)
+	(fp_rect
+		(start -38.5 -11.25)
+		(end 38.5 11.25)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "7e540e73-22b3-4e5e-a866-5fc6647768dc")
+	)
+	(fp_rect
+		(start -38.5 -11.25)
+		(end 38.5 11.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "1755f664-0f98-450e-835a-878d149fbbdf")
+	)
+	(fp_rect
+		(start -38.25 -11)
+		(end 38.25 11)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "0b4a4867-71a2-4002-bfc9-09a5aa7475d0")
+	)
+	(fp_circle
+		(center -37.75 10.5)
+		(end -37.72 10.5)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "ee256605-c71b-4381-b921-ab442a931901")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "a593459f-dee1-4ef8-b2cc-ef74389acad7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at -35 0)
+		(size 1.6 1.6)
+		(drill 1.020013)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d60068ae-eded-4baa-b6b3-8397b37453d2")
+	)
+	(pad "2" thru_hole circle
+		(at 35 0)
+		(size 1.6 1.6)
+		(drill 1.020013)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "66f7c655-fb39-479b-969d-bfee57d22290")
+	)
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/BAT-TH_BH-18650-A1AJ005.wrl"
+		(offset
+			(xyz 0 -0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
